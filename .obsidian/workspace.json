@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "39b9dbc961d406d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f059176778ffbbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "200cce5829ffa15b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Reading/Article/記憶/如何寫出有效的筆記？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31b3290b9218aacd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cdea9ecb3f78c84",
+        "type": "tabs",
+        "dimension": 68.36538461538461,
+        "children": [
+          {
+            "id": "573c70043e76664b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b1d200648a58979",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4cb719b1fed84bff",
+        "type": "tabs",
+        "dimension": 31.634615384615383,
+        "children": [
+          {
+            "id": "02994fab4890eaca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65795d254acaedf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Template/call out.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "c700b7cc1aa5492e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a040a239cee6190a",
+        "type": "tabs",
+        "dimension": 45.86538461538461,
+        "children": [
+          {
+            "id": "03fa19a58d3a6ef7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 Reading/Article/記憶/如何寫出有效的筆記？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a176016849a0e7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 Reading/Article/記憶/如何寫出有效的筆記？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e6251696647bed6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Reading/Article/記憶/如何寫出有效的筆記？.md"
+              }
+            }
+          },
+          {
+            "id": "4cfd75577275e258",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "84fb8ef44733deff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#投資理財",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "28b6caa5fd21f710",
+        "type": "tabs",
+        "dimension": 54.13461538461538,
+        "children": [
+          {
+            "id": "f6793d41687cbcba",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "02 Reading/Article/記憶/如何寫出有效的筆記？.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4019828977761026,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "command-palette:開啟命令面板": false,
+      "workspaces:管理工作區配置": false,
+      "templates:插入模板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "573c70043e76664b",
+  "lastOpenFiles": [
+    "ObsidianNote/README.md",
+    "ObsidianNote/LICENSE",
+    "ObsidianNote",
+    "02 Reading/Article/記憶/一、曾經學過的，怎麼現在都忘了呢？.md",
+    "02 Reading/Article/記憶/如何寫出有效的筆記？.md",
+    "03 Invest/交易相關/交易技巧/DA Article/收斂結構/Fib和收斂結構.md",
+    "03 Invest/交易相關/交易技巧/DA Article/VRVP.md",
+    "03 Invest/交易相關/交易技巧/DA Article/MSB ，趨勢的終結與轉換.md",
+    "03 Invest/交易相關/交易技巧/DA Article/順勢交易、趨勢判斷.md",
+    "03 Invest/交易相關/交易技巧/DA Article/等高等低，Eqh、Eql.md",
+    "03 Invest/交易相關/交易技巧/DA Article/斐波那契，什麼是 0.618 回撤位.md",
+    "03 Invest/交易相關/交易技巧/DA Article/形態學.md",
+    "03 Invest/交易相關/交易技巧/DA Article/三角收斂.md",
+    "03 Invest/交易相關/交易技巧/DA Article/123法則.md",
+    "03 Invest/交易相關/交易技巧/DA Article/2B法則.md",
+    "03 Invest/交易相關/交易技巧/DA Article/SMC、訂單流/談 ICT 市場結構概念篇，關於短、中、長期的高點與低點。.md",
+    "03 Invest/交易相關/交易技巧/DA Article/SMC、訂單流/03 結構與時區框架.md",
+    "03 Invest/交易相關/交易技巧/DA Article/SMC、訂單流/02 流動性.md",
+    "03 Invest/交易相關/交易技巧/DA Article/SMC、訂單流/01 訂單塊.md",
+    "03 Invest/交易相關/交易技巧/DA Article/SMC、訂單流/「掛單簿」那幾件事你必須知道！.md",
+    "03 Invest/交易相關/交易技巧/DA Article/Harmonic/蝴蝶型態.md",
+    "03 Invest/交易相關/交易技巧/DA Article/Harmonic/學習和諧型態前 不能錯過的重要結構.md",
+    "03 Invest/交易相關/交易技巧/DA Article/Harmonic/鯊魚型態.md",
+    "03 Invest/交易相關/交易技巧/DA Article/總體經濟/NASDAQ.md",
+    "03 Invest/交易相關/交易技巧/DA Article/總體經濟/美元指數 DXY.md",
+    "03 Invest/交易相關/交易技巧/DA Article/收斂結構/常見的中繼結構陷阱、反轉結構延伸.md",
+    "03 Invest/交易相關/交易技巧/DA Article/收斂結構/反轉結構.md",
+    "03 Invest/交易相關/交易技巧/DA Article/收斂結構/中繼結構.md",
+    "04 Studing/00 CS/UCB CS61B DataStructure/Hash",
+    "04 Studing/00 CS/UCB CS61B DataStructure/Disjoint Set",
+    "05 Attachments/Pasted image 20230924210951.png",
+    "05 Attachments/Pasted image 20230924210309.png",
+    "05 Attachments/Pasted image 20230924205902.png",
+    "05 Attachments/Pasted image 20230924205724.png",
+    "05 Attachments/Pasted image 20230924205659.png",
+    "05 Attachments/Pasted image 20230924205506.png",
+    "05 Attachments/Pasted image 20230924205359.png",
+    "04 Studing/00 CS/UCB CS61B DataStructure/Tree",
+    "05 Attachments/Pasted image 20230924204716.png",
+    "05 Attachments/Pasted image 20230924204042.png",
+    "05 Attachments/Pasted image 20230924204033.png",
+    "04 Studing/00 CS/UCB CS61B DataStructure",
+    "04 Studing/01 材料/晶體缺陷",
+    "04 Studing/01 材料",
+    "06 Graph/未命名",
+    "04 Studing/00 CS/MIT 18.06 Linear Algebra"
+  ]
+}

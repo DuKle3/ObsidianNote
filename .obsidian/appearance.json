@@ -1,0 +1,20 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "Gen Jyuu Gothic Monospace,Rubik",
+  "interfaceFontFamily": "Overpass",
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "floating-search-bar",
+    "floating-status-bar",
+    "its-frontmatter",
+    "minimal-cards",
+    "notion-cards"
+  ]
+}

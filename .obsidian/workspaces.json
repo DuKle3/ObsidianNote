@@ -1,0 +1,211 @@
+{
+  "workspaces": {
+    "Work": {
+      "main": {
+        "id": "39b9dbc961d406d0",
+        "type": "split",
+        "children": [
+          {
+            "id": "265ba418b0550357",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "812c0a1e9c2cae1a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 Template/Invest Template.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "31b3290b9218aacd",
+        "type": "split",
+        "children": [
+          {
+            "id": "6cdea9ecb3f78c84",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "573c70043e76664b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "34f83f51a01dd68a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "4cb719b1fed84bff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "02994fab4890eaca",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "c700b7cc1aa5492e",
+        "type": "split",
+        "children": [
+          {
+            "id": "a040a239cee6190a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "03fa19a58d3a6ef7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "00 Template/Invest Template.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8a176016849a0e7d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "00 Template/Invest Template.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8e6251696647bed6",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "00 Template/Invest Template.md"
+                  }
+                }
+              },
+              {
+                "id": "4cfd75577275e258",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "84fb8ef44733deff",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2f52e7992b4f8820",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6793d41687cbcba",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "00 Template/Invest Template.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:開啟快速切換": false,
+          "graph:查看關聯圖": false,
+          "canvas:建立新畫布": false,
+          "daily-notes:開啟今天的每日筆記": false,
+          "templates:插入模板": false,
+          "command-palette:開啟命令面板": false,
+          "workspaces:管理工作區配置": false,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "03fa19a58d3a6ef7"
+    }
+  },
+  "active": "Work"
+}

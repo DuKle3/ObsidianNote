@@ -4,18 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "2f059176778ffbbe",
+        "id": "d04c7b7d4a65d359",
         "type": "tabs",
         "children": [
           {
-            "id": "200cce5829ffa15b",
+            "id": "fc2b323aa9885e0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Reading/Article/記憶/如何寫出有效的筆記？.md",
-                "mode": "source",
+                "file": "05 Project/gitlet-design.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6de0eac9c2f68286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Studing/00 CS/UCB CS61B DataStructure/Graph/BFS Implementation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d4a9b769a2a2af9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02 Studing/00 CS/UCB CS61B DataStructure/Graph/GraphDrawing/DFSDrawing1.md"
+              }
+            }
+          },
+          {
+            "id": "2f0a63eb6a701ed1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02 Studing/00 CS/UCB CS61B DataStructure/Tree/Tree Drawing/TreeTraversalsOrder.md"
               }
             }
           }
@@ -56,7 +88,7 @@
       {
         "id": "4cb719b1fed84bff",
         "type": "tabs",
-        "dimension": 31.634615384615383,
+        "dimension": 31.63461538461538,
         "children": [
           {
             "id": "02994fab4890eaca",
@@ -70,12 +102,12 @@
             }
           },
           {
-            "id": "65795d254acaedf1",
+            "id": "bd7717131b668782",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Template/call out.md",
+                "file": "01 Main/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 300.5026054382324
   },
   "right": {
     "id": "c700b7cc1aa5492e",
@@ -103,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Reading/Article/記憶/如何寫出有效的筆記？.md",
+                "file": "05 Project/gitlet-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Reading/Article/記憶/如何寫出有效的筆記？.md",
+                "file": "05 Project/gitlet-design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Reading/Article/記憶/如何寫出有效的筆記？.md"
+                "file": "05 Project/gitlet-design.md"
               }
             }
           },
@@ -150,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#投資理財",
+                "query": "tag:#記憶",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,8 +190,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "336a22bd1508b286",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28b6caa5fd21f710",
@@ -172,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 Reading/Article/記憶/如何寫出有效的筆記？.md",
+                "file": "05 Project/gitlet-design.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +226,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -195,7 +236,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4019828977761026,
+                  "scale": 0.7132754626224432,
                   "close": true
                 }
               }
@@ -205,7 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,56 +257,57 @@
       "command-palette:開啟命令面板": false,
       "workspaces:管理工作區配置": false,
       "templates:插入模板": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "573c70043e76664b",
+  "active": "fc2b323aa9885e0c",
   "lastOpenFiles": [
-    "ObsidianNote/README.md",
+    "05 Project/gitlet.md",
+    "Pasted image 20231005141013.png",
+    "05 Project/gitlet-design.md",
+    "01 Main/TODO.md",
+    "05 Project",
+    "04 Excalidraw/未命名",
+    "00 Template/call out.md",
+    "README.md",
+    "01 Main/CS Note.md",
+    "01 Main/Computer Science.md",
+    "00 Inbox/Arrat List.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Graph/BFS.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Graph/BFS Implementation.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Graph/DFS.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Graph.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Shortest Paths TODO.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Priority Queues.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Graph/GraphDrawing/DFSDrawing2.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Tree/Binary Search Tree.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Data Structure.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Hash/Hash Table.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Graph/GraphDrawing/DFSDrawing1.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Graph/GraphDrawing/DFSDrawing3.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Graph/GraphDrawing",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Tree/Tree Traversal.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Tree/Tree Representation.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Tree/Tree Drawing/TreeTraversalsOrder.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Tree/Tree Drawing/未命名.md",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Tree/Tree Drawing",
+    "02 Studing/00 CS/UCB CS61B DataStructure/Tree/Tree Rotation.md",
+    "05 Attachments/Pasted image 20230512225904.png",
+    "05 Attachments/image_2023-05-05_21-34-04 (2).png",
+    "05 Attachments/image_2023-05-05_21-34-04.png",
+    "05 Attachments/Pasted image 20230925134855.png",
+    "06 Excalidraw",
+    "Excalidraw",
+    "04 Studing/00 CS/UCB CS61B DataStructure/Tree/未命名",
     "ObsidianNote/LICENSE",
     "ObsidianNote",
-    "02 Reading/Article/記憶/一、曾經學過的，怎麼現在都忘了呢？.md",
-    "02 Reading/Article/記憶/如何寫出有效的筆記？.md",
-    "03 Invest/交易相關/交易技巧/DA Article/收斂結構/Fib和收斂結構.md",
-    "03 Invest/交易相關/交易技巧/DA Article/VRVP.md",
-    "03 Invest/交易相關/交易技巧/DA Article/MSB ，趨勢的終結與轉換.md",
-    "03 Invest/交易相關/交易技巧/DA Article/順勢交易、趨勢判斷.md",
-    "03 Invest/交易相關/交易技巧/DA Article/等高等低，Eqh、Eql.md",
-    "03 Invest/交易相關/交易技巧/DA Article/斐波那契，什麼是 0.618 回撤位.md",
-    "03 Invest/交易相關/交易技巧/DA Article/形態學.md",
-    "03 Invest/交易相關/交易技巧/DA Article/三角收斂.md",
-    "03 Invest/交易相關/交易技巧/DA Article/123法則.md",
-    "03 Invest/交易相關/交易技巧/DA Article/2B法則.md",
-    "03 Invest/交易相關/交易技巧/DA Article/SMC、訂單流/談 ICT 市場結構概念篇，關於短、中、長期的高點與低點。.md",
-    "03 Invest/交易相關/交易技巧/DA Article/SMC、訂單流/03 結構與時區框架.md",
-    "03 Invest/交易相關/交易技巧/DA Article/SMC、訂單流/02 流動性.md",
-    "03 Invest/交易相關/交易技巧/DA Article/SMC、訂單流/01 訂單塊.md",
-    "03 Invest/交易相關/交易技巧/DA Article/SMC、訂單流/「掛單簿」那幾件事你必須知道！.md",
-    "03 Invest/交易相關/交易技巧/DA Article/Harmonic/蝴蝶型態.md",
-    "03 Invest/交易相關/交易技巧/DA Article/Harmonic/學習和諧型態前 不能錯過的重要結構.md",
-    "03 Invest/交易相關/交易技巧/DA Article/Harmonic/鯊魚型態.md",
-    "03 Invest/交易相關/交易技巧/DA Article/總體經濟/NASDAQ.md",
-    "03 Invest/交易相關/交易技巧/DA Article/總體經濟/美元指數 DXY.md",
-    "03 Invest/交易相關/交易技巧/DA Article/收斂結構/常見的中繼結構陷阱、反轉結構延伸.md",
-    "03 Invest/交易相關/交易技巧/DA Article/收斂結構/反轉結構.md",
-    "03 Invest/交易相關/交易技巧/DA Article/收斂結構/中繼結構.md",
     "04 Studing/00 CS/UCB CS61B DataStructure/Hash",
-    "04 Studing/00 CS/UCB CS61B DataStructure/Disjoint Set",
     "05 Attachments/Pasted image 20230924210951.png",
     "05 Attachments/Pasted image 20230924210309.png",
     "05 Attachments/Pasted image 20230924205902.png",
     "05 Attachments/Pasted image 20230924205724.png",
-    "05 Attachments/Pasted image 20230924205659.png",
-    "05 Attachments/Pasted image 20230924205506.png",
-    "05 Attachments/Pasted image 20230924205359.png",
-    "04 Studing/00 CS/UCB CS61B DataStructure/Tree",
-    "05 Attachments/Pasted image 20230924204716.png",
-    "05 Attachments/Pasted image 20230924204042.png",
-    "05 Attachments/Pasted image 20230924204033.png",
-    "04 Studing/00 CS/UCB CS61B DataStructure",
-    "04 Studing/01 材料/晶體缺陷",
-    "04 Studing/01 材料",
-    "06 Graph/未命名",
-    "04 Studing/00 CS/MIT 18.06 Linear Algebra"
+    "05 Attachments/Pasted image 20230924205659.png"
   ]
 }

@@ -4,7 +4,7 @@
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "Gen Jyuu Gothic Monospace,Rubik",
   "interfaceFontFamily": "Overpass",
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "theme": "obsidian",
   "nativeMenus": false,
   "showViewHeader": true,

@@ -1,3 +1,8 @@
+- [[Tree]]
+- [[Graph]]
+- [[List]]
+- [[Hash]]
+- [[Heap]]
 ## Search Data Structures (The particularly abstract ones)
 | Name          |        Storage Operaion         | Primary Retrieval Operation | Retrieve By:   |
 | ------------- |:-------------------------------:| --------------------------- | -------------- |
@@ -9,7 +14,7 @@
 
 ### Abstraction often happens in layers!
 - [[Priority Queues]] --> [[Heap]] --> [[Tree Representation]]
-- [[Hash Table]] (TODO) --> Array of Buckets --> Bucket --> 
+- [[Hash Table]] --> Array of Buckets --> Bucket --> 
 	- ArrayList
 	- Linked List
 	- BST

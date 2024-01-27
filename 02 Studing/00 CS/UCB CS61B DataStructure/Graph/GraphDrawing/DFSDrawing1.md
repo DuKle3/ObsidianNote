@@ -6314,8 +6314,8 @@ Order of dfs return :  ^08NFP10i
 		},
 		{
 			"type": "ellipse",
-			"version": 291,
-			"versionNonce": 1114752377,
+			"version": 292,
+			"versionNonce": 989652857,
 			"isDeleted": false,
 			"id": "RTUYOrV_yqgfw6YECl4Ql",
 			"fillStyle": "solid",
@@ -6327,7 +6327,7 @@ Order of dfs return :  ^08NFP10i
 			"x": -157.54981444469217,
 			"y": 1007.4261559804354,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e7f5ff",
+			"backgroundColor": "#a5d8ff",
 			"width": 52,
 			"height": 64,
 			"seed": 904676855,
@@ -6342,7 +6342,7 @@ Order of dfs return :  ^08NFP10i
 					"id": "Bi61g0LF"
 				}
 			],
-			"updated": 1695728929098,
+			"updated": 1696554314013,
 			"link": null,
 			"locked": false
 		},
@@ -8746,8 +8746,8 @@ Order of dfs return :  ^08NFP10i
 		},
 		{
 			"type": "ellipse",
-			"version": 586,
-			"versionNonce": 1157626999,
+			"version": 587,
+			"versionNonce": 1250311159,
 			"isDeleted": false,
 			"id": "gxLoWm0quTtVSLQHiRB0G",
 			"fillStyle": "solid",
@@ -8759,7 +8759,7 @@ Order of dfs return :  ^08NFP10i
 			"x": 778.7566903945378,
 			"y": 87.7284684940787,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e7f5ff",
+			"backgroundColor": "#a5d8ff",
 			"width": 52,
 			"height": 64,
 			"seed": 1857635161,
@@ -8774,7 +8774,7 @@ Order of dfs return :  ^08NFP10i
 					"id": "7P9uPQta"
 				}
 			],
-			"updated": 1695728929098,
+			"updated": 1696554322228,
 			"link": null,
 			"locked": false
 		},
@@ -8817,8 +8817,8 @@ Order of dfs return :  ^08NFP10i
 		},
 		{
 			"type": "ellipse",
-			"version": 629,
-			"versionNonce": 140864121,
+			"version": 630,
+			"versionNonce": 889512697,
 			"isDeleted": false,
 			"id": "FFJ-3IVAtAb0ZXOlpfiU4",
 			"fillStyle": "solid",
@@ -8830,7 +8830,7 @@ Order of dfs return :  ^08NFP10i
 			"x": 877.7299527966909,
 			"y": 86.98520104891963,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e7f5ff",
+			"backgroundColor": "#a5d8ff",
 			"width": 52,
 			"height": 64,
 			"seed": 385941785,
@@ -8845,7 +8845,7 @@ Order of dfs return :  ^08NFP10i
 					"id": "iPWYMZin"
 				}
 			],
-			"updated": 1695728929098,
+			"updated": 1696554322228,
 			"link": null,
 			"locked": false
 		},
@@ -11368,8 +11368,8 @@ Order of dfs return :  ^08NFP10i
 		},
 		{
 			"type": "ellipse",
-			"version": 699,
-			"versionNonce": 1092335705,
+			"version": 700,
+			"versionNonce": 2047588761,
 			"isDeleted": false,
 			"id": "gWrEl_TjDeyQ-gqUqFU31",
 			"fillStyle": "solid",
@@ -11381,7 +11381,7 @@ Order of dfs return :  ^08NFP10i
 			"x": 780.9383275523743,
 			"y": 555.3145859104632,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e7f5ff",
+			"backgroundColor": "#a5d8ff",
 			"width": 52,
 			"height": 64,
 			"seed": 945173305,
@@ -11396,7 +11396,7 @@ Order of dfs return :  ^08NFP10i
 					"id": "zxDgVoPn"
 				}
 			],
-			"updated": 1695728929098,
+			"updated": 1696554329085,
 			"link": null,
 			"locked": false
 		},
@@ -11439,8 +11439,8 @@ Order of dfs return :  ^08NFP10i
 		},
 		{
 			"type": "ellipse",
-			"version": 742,
-			"versionNonce": 970806711,
+			"version": 743,
+			"versionNonce": 1222183031,
 			"isDeleted": false,
 			"id": "hcluBKCvw89jOtn2UithF",
 			"fillStyle": "solid",
@@ -11452,7 +11452,7 @@ Order of dfs return :  ^08NFP10i
 			"x": 879.9115899545275,
 			"y": 554.5713184653041,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e7f5ff",
+			"backgroundColor": "#a5d8ff",
 			"width": 52,
 			"height": 64,
 			"seed": 72055033,
@@ -11467,7 +11467,7 @@ Order of dfs return :  ^08NFP10i
 					"id": "bNohRU0b"
 				}
 			],
-			"updated": 1695728929098,
+			"updated": 1696554329085,
 			"link": null,
 			"locked": false
 		},
@@ -11510,8 +11510,8 @@ Order of dfs return :  ^08NFP10i
 		},
 		{
 			"type": "ellipse",
-			"version": 833,
-			"versionNonce": 1570063673,
+			"version": 834,
+			"versionNonce": 326311545,
 			"isDeleted": false,
 			"id": "SlRyCHafncvITUV5rSgyb",
 			"fillStyle": "solid",
@@ -11523,7 +11523,7 @@ Order of dfs return :  ^08NFP10i
 			"x": 904.4842661365713,
 			"y": 662.4787403732962,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e7f5ff",
+			"backgroundColor": "#a5d8ff",
 			"width": 52,
 			"height": 64,
 			"seed": 8015545,
@@ -11538,7 +11538,7 @@ Order of dfs return :  ^08NFP10i
 					"id": "bnoOENCG"
 				}
 			],
-			"updated": 1695728929098,
+			"updated": 1696554329085,
 			"link": null,
 			"locked": false
 		},
@@ -13921,8 +13921,8 @@ Order of dfs return :  ^08NFP10i
 		},
 		{
 			"type": "ellipse",
-			"version": 800,
-			"versionNonce": 2077539673,
+			"version": 801,
+			"versionNonce": 455185655,
 			"isDeleted": false,
 			"id": "FgucuLh2NiiJk_gtuIzIZ",
 			"fillStyle": "solid",
@@ -13934,7 +13934,7 @@ Order of dfs return :  ^08NFP10i
 			"x": 787.483185764558,
 			"y": 1013.44719086241,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e7f5ff",
+			"backgroundColor": "#a5d8ff",
 			"width": 52,
 			"height": 64,
 			"seed": 1562311255,
@@ -13949,7 +13949,7 @@ Order of dfs return :  ^08NFP10i
 					"id": "ekoDjfCR"
 				}
 			],
-			"updated": 1695728929099,
+			"updated": 1696554333279,
 			"link": null,
 			"locked": false
 		},
@@ -13992,8 +13992,8 @@ Order of dfs return :  ^08NFP10i
 		},
 		{
 			"type": "ellipse",
-			"version": 843,
-			"versionNonce": 1726161079,
+			"version": 844,
+			"versionNonce": 1361549817,
 			"isDeleted": false,
 			"id": "JlX7x5UMwav95FmH2O-L7",
 			"fillStyle": "solid",
@@ -14005,7 +14005,7 @@ Order of dfs return :  ^08NFP10i
 			"x": 886.4564481667112,
 			"y": 1012.7039234172507,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e7f5ff",
+			"backgroundColor": "#a5d8ff",
 			"width": 52,
 			"height": 64,
 			"seed": 1539805335,
@@ -14020,7 +14020,7 @@ Order of dfs return :  ^08NFP10i
 					"id": "EzyGO2Lh"
 				}
 			],
-			"updated": 1695728929099,
+			"updated": 1696554333279,
 			"link": null,
 			"locked": false
 		},
@@ -14063,8 +14063,8 @@ Order of dfs return :  ^08NFP10i
 		},
 		{
 			"type": "ellipse",
-			"version": 934,
-			"versionNonce": 1155902009,
+			"version": 935,
+			"versionNonce": 1781653015,
 			"isDeleted": false,
 			"id": "xlF-fNKfCPm5qGzoDK9bX",
 			"fillStyle": "solid",
@@ -14076,7 +14076,7 @@ Order of dfs return :  ^08NFP10i
 			"x": 911.029124348755,
 			"y": 1120.6113453252428,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e7f5ff",
+			"backgroundColor": "#a5d8ff",
 			"width": 52,
 			"height": 64,
 			"seed": 158308055,
@@ -14091,7 +14091,7 @@ Order of dfs return :  ^08NFP10i
 					"id": "2HK93U9n"
 				}
 			],
-			"updated": 1695728929099,
+			"updated": 1696554333279,
 			"link": null,
 			"locked": false
 		},
@@ -14134,8 +14134,8 @@ Order of dfs return :  ^08NFP10i
 		},
 		{
 			"type": "ellipse",
-			"version": 979,
-			"versionNonce": 625734103,
+			"version": 980,
+			"versionNonce": 1895035609,
 			"isDeleted": false,
 			"id": "HitG9SzgKdu01qADEVYNT",
 			"fillStyle": "solid",
@@ -14147,7 +14147,7 @@ Order of dfs return :  ^08NFP10i
 			"x": 1056.417458425848,
 			"y": 1124.0242336816063,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e7f5ff",
+			"backgroundColor": "#a5d8ff",
 			"width": 52,
 			"height": 64,
 			"seed": 1627065623,
@@ -14162,7 +14162,7 @@ Order of dfs return :  ^08NFP10i
 					"id": "e3isuPFr"
 				}
 			],
-			"updated": 1695728929099,
+			"updated": 1696554333279,
 			"link": null,
 			"locked": false
 		},
@@ -15255,7 +15255,7 @@ Order of dfs return :  ^08NFP10i
 		"theme": "light",
 		"viewBackgroundColor": "#f8f1ee",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#ffc9c9",
+		"currentItemBackgroundColor": "#a5d8ff",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -15266,10 +15266,10 @@ Order of dfs return :  ^08NFP10i
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 496.7253541129728,
-		"scrollY": 245.81785551264932,
+		"scrollX": 461.9494859038498,
+		"scrollY": 723.4722741719407,
 		"zoom": {
-			"value": 0.45
+			"value": 0.2889248801203636
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

@@ -91,4 +91,4 @@ for (int v = 0; v < G.V(); v += 1) {
 - [[DFS Implementation]]
 - [[BFS Implementation]]
 
-Next : [[Shortest Paths TODO]]
+Next : [[Shortest Paths]]

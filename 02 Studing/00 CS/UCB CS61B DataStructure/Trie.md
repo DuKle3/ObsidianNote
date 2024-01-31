@@ -8,7 +8,7 @@ Trie is a specific implementation for Sets and Maps that is specialized for stri
 | Type      | contains(x)       | add(x)           |
 | --------- | ----------------- | ---------------- |
 | BST       | $\Theta (\log N)$ | $\Theta(\log N)$ |
-| HashTable | $\Theta(1)^+$     | $\Theta(1)^{*+}$                 |
+| HashTable | $\Theta(1)^+$     | $\Theta(1)^{*+}$ |
 
 - * : indicates "on average".
 - + : Assuming items are evenly spread.

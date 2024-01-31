@@ -18,13 +18,13 @@
 
 > [!Note]
 > The tree can become very long (spindly), 
-> `connect, isConnect` is upper bounded be $O(\log N)$ 
+> `connect, isConnect` is upper bounded be $O(N)$ 
 
 ## Summery
 | Implementation | Constructor      | `connect`        | `isConnect`      |
 | -------------- | ---------------- | ---------------- | ---------------- |
-| List Of Sets   | $\Theta(\log N)$ | $O(\log N)$      | $O(\log N)$      |
-| Quick Find     | $\Theta(\log N)$ | $\Theta(\log N)$ | $\Theta(\log 1)$ |
-| Quick Union    | $\Theta(\log N)$ | $O(N)$      | $O(N)$                 |
+| List Of Sets   | $\Theta(N)$ | $O(N)$      | $O(N)$      |
+| Quick Find     | $\Theta(N)$ | $O(N)$ | $O(\log 1)$ |
+| Quick Union    | $\Theta(N)$ | $O(N)$           | $O(N)$           |
 
 - Next : [[Weighted Quick Union (WQU)]]

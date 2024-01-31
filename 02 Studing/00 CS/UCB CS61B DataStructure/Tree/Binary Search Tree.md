@@ -41,6 +41,32 @@ else if (T.right == null) {
 	2. find the smallest in the right
 	3. choose one to replace it.
 
+> Leap of Faith
+```java
+private Node remove(Node x, K key) {  
+    int cmp = x.key.compareTo(key);  
+    if (cmp > 0) {  
+        x.left = remove(x.left, key);  
+    }    
+    if (cmp < 0) {  
+        x.right = remove(x.right, key);  
+    }    
+    else {  
+        if (x.left == null) {  
+            return x.right;  
+        }        
+        if (x.right == null) {  
+            return x.left;  
+        }        
+        Node originalNode = x;  
+        x = getMinNode(x.right);  
+        x.left = originalNode.left;  
+        x.right = remove(originalNode.right, x.key);  
+    }    
+    return x;  
+}
+```
+
 ![[BST Deletion|600]]
 
 Next: [[B-Tree]]

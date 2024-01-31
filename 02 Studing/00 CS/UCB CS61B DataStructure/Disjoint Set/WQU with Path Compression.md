@@ -11,10 +11,10 @@
 
 ## Summery
 
-| Implementation            | Constructor       | `connect`         | `isConnect`      |
-| ------------------------- | ----------------- | ----------------- | ---------------- |
-| List Of Sets              | $\Theta(\log N)$  | $O(\log N)$       | $O(\log N)$      |
-| Quick Find                | $\Theta(\log N)$  | $\Theta(\log N)$  | $\Theta(\log 1)$ |
-| Quick Union               | $\Theta(\log N)$  | $O(N)$            | $O(N)$           |
-| WQU                       | $\Theta(N)$       | $O(\log N)$       | $O(\log N)$      |
+| Implementation | Constructor      | `connect`        | `isConnect`      |
+| -------------- | ---------------- | ---------------- | ---------------- |
+| List Of Sets   | $\Theta(N)$ | $O(N)$      | $O(N)$      |
+| Quick Find     | $\Theta(N)$ | $O(N)$ | $O(\log 1)$ |
+| Quick Union    | $\Theta(N)$ | $O(N)$           | $O(N)$           |
+| WQU            | $\Theta(N)$      | $O(\log N)$ | $O(\log N)$                  |
 | WQU with Path Compression | $\Theta(N)$ | $O(\alpha (N))^*$ |     $O(\alpha (N))^*$             |
